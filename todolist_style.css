@@ -1,0 +1,17 @@
+body{
+  background-color: grey;
+}
+.mondayQuote {
+  background-image: url(https://i.pinimg.com/originals/9b/57/fc/9b57fc014afe5bc1ffabdbba1b71cf9c.jpg) ! important;
+  background-repeat: no-repeat; 
+  width: 230px;
+  height: 200px;
+  position: absolute;
+  left: 700px;
+  top: 0px;
+  
+}
+/*.coolQuote{
+  left: 60px;
+  top: -70px;
+}*/
